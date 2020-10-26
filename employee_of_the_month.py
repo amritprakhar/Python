@@ -1,6 +1,6 @@
 #Input the data
 work_hours=[('Amrit',100),('Billy',200),('Rohit',9999)]
-#
+#Code
 def employee_check(work_hours):
 	current_max=0
 	employee_of_the_month=''
